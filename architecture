@@ -1,1 +1,13 @@
+## Architecture Overview
+
+Azure Data Lake Gen2
+   ↓
+Azure Pipeline (ingestion & orchestration)
+   ↓
+Microsoft Fabric Lakehouse
+   - Bronze: Raw data ingestion
+   - Silver: Cleaned & enriched data
+   - Gold: Aggregated KPI tables
+   ↓
+Power BI (Direct Lake semantic model & dashboard)
 
