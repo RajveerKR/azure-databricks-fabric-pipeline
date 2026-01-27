@@ -1,2 +1,2 @@
 # azure-fabric-nyc-taxi-medallion-pipeline
-Secure, automated Azure–Fabric data pipeline using Delta Lake, notebooks, medallion architecture, and Power BI dashboards.
+End-to-end Azure–Microsoft Fabric data pipeline using ADLS Gen2, medallion architecture (Bronze/Silver/Gold), orchestration pipelines, and Power BI dashboards.
